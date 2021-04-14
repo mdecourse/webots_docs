@@ -14,6 +14,7 @@
 <v t="leo.20210414181506.1"><vh>Technical questions</vh></v>
 <v t="leo.20210414181645.1"><vh>Web streaming</vh></v>
 </v>
+<v t="leo.20210414212857.1"><vh>研究 showdown js</vh></v>
 <v t="leo.20210414172957.1"><vh>add robot component</vh></v>
 <v t="leo.20210414164039.2"><vh>@edit index.html</vh></v>
 <v t="leo.20210414180847.1"><vh>@path old\wwi\R2018a</vh>
@@ -10682,5 +10683,8 @@ var rx = /INPUT|SELECT|TEXTAREA/i;
 </t>
 <t tx="leo.20210414181506.1">https://cyberbotics.com/doc/discord/technical-questions</t>
 <t tx="leo.20210414181645.1">https://www.cyberbotics.com/doc/guide/web-streaming</t>
+<t tx="leo.20210414212857.1">http://showdownjs.com/
+
+https://github.com/showdownjs/showdown/wiki</t>
 </tnodes>
 </leo_file>
